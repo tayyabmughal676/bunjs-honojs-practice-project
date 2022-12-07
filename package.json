@@ -5,6 +5,7 @@
     "bun-types": "latest"
   },
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "hono": "^2.2.5"
   },
   "scripts": {
